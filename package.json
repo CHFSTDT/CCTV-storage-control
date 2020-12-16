@@ -1,0 +1,26 @@
+{
+  "name": "CCTV-storage-control",
+  "version": "1.0.0",
+  "description": "App to manage and maintain the storage of CCTVs",
+  "main": "index.js",
+  "scripts": {
+    "develop" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHFSTDT/CCTV-storage-control.git"
+  },
+  "keywords": [],
+  "author": "Christopher Hofstadt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CHFSTDT/CCTV-storage-control/issues"
+  },
+  "homepage": "https://github.com/CHFSTDT/CCTV-storage-control#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
